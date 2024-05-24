@@ -43,3 +43,7 @@ Berikut contoh data riilnya:
 
 - Data buku yang ditampilkan pada rak, baik itu "Belum selesai dibaca" maupun "Selesai dibaca" harus dapat bertahan walaupun halaman web ditutup.
 - Dengan begitu, Anda harus menyimpan data buku pada localStorage.
+
+  ![bookshelf-apps](https://github.com/meialbertzend/Submission-Aplikasi-Pengelolaan-Data-Menggunakan-DOM-dan-Web-Storage/assets/141926927/3004751e-2737-47aa-960a-c903d5c853e8)
+![bookshelf-apps2](https://github.com/meialbertzend/Submission-Aplikasi-Pengelolaan-Data-Menggunakan-DOM-dan-Web-Storage/assets/141926927/1c0c2f64-9af5-4a18-9e3b-ec038c50134d)
+
